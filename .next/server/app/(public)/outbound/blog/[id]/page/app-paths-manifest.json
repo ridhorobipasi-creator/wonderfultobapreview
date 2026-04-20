@@ -1,3 +1,0 @@
-{
-  "/(public)/outbound/blog/[id]/page": "app/(public)/outbound/blog/[id]/page.js"
-}
